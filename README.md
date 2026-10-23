@@ -179,16 +179,6 @@ Expected results:
 - Both PCs can reach their local default gateways.
 - End-to-end pings succeed between PC-A and PC-B.
 
-**Evidence:** Add your actual command outputs and successful ping screenshots below.
-
-![OSPF Neighbor Verification](images/ospf-neighbor.png)
-
-*Figure 2: OSPF neighbor verification.*
-
-![End-to-End Connectivity Test](images/connectivity-test.png)
-
-*Figure 3: Connectivity testing between VLANs.*
-
 ## 🔧 Troubleshooting
 
 Issues investigated in this lab include:
