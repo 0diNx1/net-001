@@ -14,7 +14,6 @@ The lab focuses on practical networking skills relevant to **Junior Network Engi
 
 *Figure 1: Network topology showing VLANs, routers, switches, and the point-to-point link.*
 
-> **Note:** Replace `images/topology.png` with a screenshot of your actual Packet Tracer topology. Create an `images` folder in the repository and upload your screenshot there.
 
 ## 🎯 Project Objectives
 
