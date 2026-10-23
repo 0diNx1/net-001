@@ -205,7 +205,7 @@ Issues investigated in this lab include:
 
 1. Clone or download this repository.
 2. Install Cisco Packet Tracer.
-3. Open `jisanviproject.pkt` in Packet Tracer.
+3. Open `file.pkt` in Packet Tracer.
 4. Inspect the topology, device configurations, VLANs, and OSPF setup.
 5. Run the verification commands and connectivity tests.
 
