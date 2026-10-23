@@ -193,7 +193,7 @@ Issues investigated in this lab include:
 
 | File | Description |
 |---|---|
-| `jisanviproject.pkt` | Cisco Packet Tracer project file |
+| `file.pkt` | Cisco Packet Tracer project file |
 | `VLAN-OSPF-Dynamic-Routing.pdf` | Lab documentation |
 | `images/topology.png` | Network topology screenshot |
 | `images/ospf-neighbor.png` | OSPF verification screenshot |
